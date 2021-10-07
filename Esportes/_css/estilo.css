@@ -1,0 +1,34 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: #b5ff7d;
+}
+
+.pergunta{
+  margin: auto;
+  padding-top: 10px;
+  background-color: #52d681;
+  text-align: center;
+  font: normal 25pt arial serif;
+}
+
+.botoes{
+  text-align: center;
+}
+
+
+.sim {
+  background-color: #00ad7c  ;
+  font: normal 18pt arial serif;
+  height: 60px;
+  width: 140px;
+  border-radius: 15pt;
+}
+
+.nao{
+  background-color: #00ad7c  ;
+  font: normal 18pt arial serif;
+  height: 60px;
+  width: 140px;
+  border-radius: 15pt;
+}

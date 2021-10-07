@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient(#52d681,#b5ff7d);
+}
+input{
+    background-color: #00ad7c;
+    border-radius: 15px;
+}
+.imagem{
+    padding-top: 30px;
+    text-align: center;
+}
+img{
+    width: 800px;
+    height: 500px;
+    box-shadow: black 10pt 10pt 30pt 10pt;
+}
+
+.questionario{
+    padding-bottom: 30px;
+    box-shadow: green 5pt 5pt 50pt 5pt;
+}
